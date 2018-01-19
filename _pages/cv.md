@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,49 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* B.E. in Electronics and Communication Engineering, Ramaiah Institute Of technology University, 2017
+* M.S. in Robotics Engineering, Worcester Polytechnic Institute, 2019 (expected)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * C++
+  * C
+  * C#
+  * OpenCV
+  * Java
+  * Matlab/Octave
+  * Python
+* Tools and Libraries
+  * OpenCV
+  * Tensorflow
+  * Theano
+  * Keras
+  * Unity3D
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Software Sub-Team Lead of Team Edhitha, July 2015- June 2016
+Competed at Patuxent River Naval Air Station (NAS) Webster Field in St. Mary’s County, Maryland,
+placed 5th overall out of 22 teams. Designed a fully autonomous Unmanned Aerial Vehicle and participated in the Students' Unmanned Aerial Systems 2016 competition held by the AUVSI foundation.
+
+My Resume can be found by clicking [**here**](/files/Resume.pdf)
