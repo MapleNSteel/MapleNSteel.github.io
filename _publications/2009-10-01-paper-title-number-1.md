@@ -6,10 +6,7 @@ excerpt: 'This paper presents a novel approach of using Particle Swarm Optimisat
 date: 2016-12-19
 venue: 'International Conference on Robotics: Current Trends and Future Challenges, Thanjavur, Tamil Nadu, India'
 paperurl: 'http://ieeexplore.ieee.org/document/7893406/'
-citation: Arjun Jagdish Ram, "Obstacle Avoidance using Gradient Based Swarm Techniques" in Proceedings of
-the International Conference on Robotics: Current Trends and Future Challenges, Thanjavur, Tamil
-Nadu, India, Dec 19-20, 2016, pp. 1-6
-doi:10.1109/RCTFC.2016.7893406
+citation: 'Arjun Jagdish Ram, (2016). &quot;"Obstacle Avoidance using Gradient Based Swarm Techniques" .&quot; <i>Journal 1</i>. 1(1).'
 ---
 This paper presents a novel approach of using Particle Swarm Optimisation for planning oaths between points, whilst avoiding static obstacles.
 
