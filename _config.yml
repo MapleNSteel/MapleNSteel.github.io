@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -83,7 +83,7 @@ author:
   bio              : "Robotics Graduate Student at WPI, actively seeking internships for Summer 2017"
   location         : "Worcester, MA"
   employer         :
-  googlescholar    : ""
+  googlescholar    : 
   email            :
   uri              :
   bitbucket        :
