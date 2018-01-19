@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Arjun Jagdish Ram"
-  avatar           : "prof.png"
+  avatar           : "images/prof.png"
   bio              : "Robotics Graduate Student at WPI, actively seeking internships for Summer 2017"
   location         : "Worcester, MA"
   employer         :
