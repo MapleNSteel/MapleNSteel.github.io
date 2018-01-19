@@ -27,7 +27,7 @@ My [undergraduate project](https://github.com/MapleNSteel/DR-detect-and-classify
 <br />
 In the third year of my undergraduate career, I designed a fully autonomous Unmanned Aerial Vehicle and participated in the Students' Unmanned Aerial Systems 2016 competition held by the AUVSI foundation, as a member of [Team Edhitha](http://www.edhitha-uas.com/) a group of undergraduate engineers from my Alma Mater. I led the software sub-team and designed a complete system for autonomous aerial survey, using images acquired from the aircraft whilst in flight.
 <br />
-Git repo: [MapleNSteel.github.io/_config.yml](MapleNSteel.github.io/_config.yml)
+Git repo: [https://github.com/MapleNSteel/Edhitha2017](https://github.com/MapleNSteel/Edhitha2017)
 
 
 
