@@ -16,10 +16,10 @@ My interests are primarily in Control, Systems Engineering, Computer Vision, and
 I also have undergraduate level research experience and have published a paper on aerial path-planning and obstacle avoidance.
 <br />
 <br />
-I am working on making a Traxxas Rally 4-wheel drive 1/10 RC car autonomous, currently designing a low-level controller for the rally car.
+Currently working on making a Traxxas Rally 4-wheel drive 1/10 RC car autonomous, designing a low-level controller for the rally car.
 <br />
 <br />
-Between July and December of 2017, I [developed](https://github.com/MapleNSteel/TVM) interoperability modules and arm-control modules for bi-manual coordination of Baxter robot's arms. I used the Vicon-motion capture system for acquiring human joint angle data, which I used to control Baxter robot's arms. Video: [https://youtu.be/Fy6iVArQv2A](https://youtu.be/Fy6iVArQv2A)
+Between July and December of 2017, I [developed](https://github.com/MapleNSteel/TVM) interoperability modules and arm-control modules for bi-manual coordination of Baxter robot's arms. Baxter robot's arms were controlled using the Vicon-motion capture system for acquiring human joint angle data. Video: [https://youtu.be/Fy6iVArQv2A](https://youtu.be/Fy6iVArQv2A)
 <br />
 <br />
 My [undergraduate project](https://github.com/MapleNSteel/DR-detect-and-classify) was the implementation of a CNN for detecting and classifying Diabetic Retinopathy using Fundus Images. Libraries used were OpenCV, Theano, and Lasagne.
