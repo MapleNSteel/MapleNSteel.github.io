@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Arjun Jagdish Ram - Github"
-excerpt: "Robotics Graduate Student at WPI, actively seeking internships for Summer 2017"
+excerpt: "Robotics Graduate Student at WPI, actively seeking internships for Summer 2018"
 author_profile: true
 redirect_from: 
   - /about/
