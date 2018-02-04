@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Resume"
+title: "Personal Information"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -33,6 +33,15 @@ Skills
   * Keras
   * Unity3D
 
+Achievements
+======
+* Adjudged Best Director in Skit Category at the annual collegiate theater festival held
+at MSRIT in 2013
+* Successfully completed the project on DTMF controlled Mobile Robot under the
+supervison of IEEE - MSRIT Student bracnh in 2014
+* Successfully compeleted the project on titled Heat Sink in Hackatronics conducted
+in the National Level Inter Collegiate Tech Fest of IEEE MSRIT in 2015
+
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -44,3 +53,6 @@ Service and leadership
 * Software Sub-Team Lead of Team Edhitha, July 2015- June 2016
 Competed at Patuxent River Naval Air Station (NAS) Webster Field in St. Mary’s County, Maryland,
 placed 5th overall out of 22 teams. Designed a fully autonomous Unmanned Aerial Vehicle and participated in the Students' Unmanned Aerial Systems 2016 competition held by the AUVSI foundation.
+
+* Worked as a Supply Chain Management trainee at Chembala Tea Factory, Gudalur,
+Nilgiris, Tamil Nadu India
