@@ -25,7 +25,7 @@ The above image is a typical image obtained, one with no targets in it.
 The above image is a classic example of the type of images one would recive from the UAS at the competition , one with a non-target that can easily be detected as a target. The real target that is to be filtered out of this image is the Blue semi-circle in the top-right of the image, with a Pink 'I' on it.
 
 And the result one would obtain upon running the program I co-developed on the image aove would be:
-<img src='/images/1-8.JPG'>
+<img src='/images/1-8.PNG'>
 
 Due to the small size of data available, I used heuristics such as Area of detected targets, setting dimensional constraints on the length and breadth, and checking if the centroid lied within the target's space.
 
