@@ -40,7 +40,7 @@ at Ramaiah Institute of Technology in 2013
 * Successfully completed the project on DTMF controlled Mobile Robot under the
 supervison of IEEE - Ramaiah Institute of Technology Student branch in 2014
 * Successfully compeleted the project titled "Heat Seeking Robot" in Hackatronics conducted
-in the National Level Inter Collegiate Tech Fest of IEEE Ramaiah Institute of Technology in 2015
+in the Inter-Collegiate half-a-day Tech Fest of IEEE Ramaiah Institute of Technology in 2015
 
 Publications
 ======
