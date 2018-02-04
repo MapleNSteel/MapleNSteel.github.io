@@ -1,11 +1,11 @@
 ---
-title: "Tutorial 1 on Relevant Topic in Your Field"
+title: "Teleoperating Baxter Robot's Arms Using Motion Capture"
 collection: talks
-type: "Tutorial"
+type: "Course Project"
 permalink: /talks/2013-03-01-tutorial-1
-venue: "UC-Berkeley Institute for Testing Science"
-date: 2013-03-01
-location: "Berkeley CA, USA"
+venue: "CIBR Lab - Worcester Polytechnic Institute"
+date: 2017-08-30
+location: "Worcester MA, USA"
 ---
 
 [More information here](http://exampleurl.com)
