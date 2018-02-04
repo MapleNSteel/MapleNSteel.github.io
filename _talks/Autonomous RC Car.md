@@ -4,7 +4,7 @@ collection: talks
 type: "Volunteer Project"
 permalink: /talks/Autonomous RC Car
 venue: "Worcester Polytechnic Institute"
-date: 2014-02-01
+date: 2017-12-07
 location: "Worcester, MA"
 ---
 
