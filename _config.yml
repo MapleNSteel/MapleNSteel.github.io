@@ -195,15 +195,14 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+    # _talks
   - scope:
       path: ""
-      type: teaching
+      type: talks
     values:
-      layout: single
+      layout: talk
       author_profile: true
-      share: true
-      comments: true
+      share: false
   # _publications
   - scope:
       path: ""
