@@ -9,3 +9,7 @@ location: "St Inigoes, Maryland, USA"
 ---
 
 Participated in the 14th Annual Student Unmanned Aerial Systems Competition at Webster Field, St Inigoes, Maryland, USA from June 15 to 18, 2016. Placed 5th Overall.
+
+Early Stages
+======
+	
