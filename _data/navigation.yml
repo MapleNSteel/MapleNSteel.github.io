@@ -5,5 +5,5 @@ main:
   - title: "Resume"
     url: /cv/
   
-  -title: "Projects and Experience"
+  - title: "Projects and Experience"
     url: /_talks/
