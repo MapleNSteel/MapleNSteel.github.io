@@ -23,6 +23,7 @@ The system had a brushless unsensored motor and Electronic Speed Control (ESC) c
 I chose to go with the Tekin Redline Gen3 17.5 Turn Sensored Motor, and the Hobbywing Xerun XR10 Pro 80A ESC. 
 The ESC and motor combo shown above was the Castle Sidewinder 3, which strangely has a sensored motor but an unsensored ESC.
 
+
 With the new motor and ESC installed I was able to achieve speeds as low as 3 cm/s and speeds as high as 20 m/s.
 
 Completed: 15th January 2018
