@@ -36,11 +36,11 @@ Skills
 Achievements
 ======
 * Adjudged Best Director in Skit Category at the annual collegiate theater festival held
-at MSRIT in 2013
+at Ramaiah Institute of Technology in 2013
 * Successfully completed the project on DTMF controlled Mobile Robot under the
-supervison of IEEE - MSRIT Student bracnh in 2014
-* Successfully compeleted the project on titled Heat Sink in Hackatronics conducted
-in the National Level Inter Collegiate Tech Fest of IEEE MSRIT in 2015
+supervison of IEEE - Ramaiah Institute of Technology Student branch in 2014
+* Successfully compeleted the project titled "Heat Seeking Robot" in Hackatronics conducted
+in the National Level Inter Collegiate Tech Fest of IEEE Ramaiah Institute of Technology in 2015
 
 Publications
 ======
