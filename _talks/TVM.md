@@ -28,4 +28,4 @@ Also, due to the difference in configuration of Baxter's Arms, the joint angles 
 An early result can show how difficult and agonising the control process was for the human subject and all related subjects interacting with the robot (Sincerest apologies for the video orientation):
 [Video demo of early mapping](https://photos.app.goo.gl/PGO7z9vR89gf8a9d2)
 
-The final mapping, developed by a teammate, was a lot more intelligible and isomorphic to human motion, as can be see [here].(https://www.youtube.com/watch?v=Fy6iVArQv2A&feature=youtu.be)
+The final mapping, developed by a teammate, was a lot more intelligible and isomorphic to human motion, as can be see [here](https://www.youtube.com/watch?v=Fy6iVArQv2A&feature=youtu.be).
