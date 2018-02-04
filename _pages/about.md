@@ -12,7 +12,6 @@ I am a first year graduate student currently pursuing my Master of Science Degre
 <br />
 <br />
 My interests are primarily in Control, Systems Engineering, Computer Vision, and Motion Planning of Robotic Systems. This website provides detailed summaries of my activities, achievements, and publications.
-Git repo: [https://github.com/MapleNSteel/Edhitha2017](https://github.com/MapleNSteel/Edhitha2017)
 
 
 
