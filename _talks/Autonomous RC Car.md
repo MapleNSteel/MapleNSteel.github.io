@@ -20,7 +20,8 @@ The vehicle was presented to me with a Autopilot implemented on a Teensy Arduino
 The system had a brushless unsensored motor and Electronic Speed Control (ESC) combo which is non-ideal as it is incapable of smooth movement at low speeds. The first task was to replace the ESC and motor with a sensored combination which solves the issue of "cogging" at low speeds.
 
 <img src='/images/ReplacingMotor.jpg'>
-I chose to go with the Tekin Redline Gen3 17.5 Turn Sensored Motor, and the Hobbywing Xerun XR10 Pro 80A ESC; the ESC and motor combo shown above was the Castle Sidewinder 3, which strangely has a sensored motor but an unsensored ESC.
+I chose to go with the Tekin Redline Gen3 17.5 Turn Sensored Motor, and the Hobbywing Xerun XR10 Pro 80A ESC. 
+The ESC and motor combo shown above was the Castle Sidewinder 3, which strangely has a sensored motor but an unsensored ESC.
 
 With the new motor and ESC installed I was able to achieve speeds as low as 3 cm/s and speeds as high as 20 m/s.
 
