@@ -10,6 +10,8 @@ location: "St Inigoes MD, USA"
 
 Participated in the 14th Annual Student Unmanned Aerial Systems(UAS) Competition at Webster Field, St Inigoes, Maryland, USA from June 15 to 18, 2016. Placed 5th Overall.
 
+Team website: http://www.edhitha-uas.com/
+
 Early Stages
 =====
 My initial task in the team was to develop image processing programs that had to detect and extract targets of interest from aerial images. The aerial images were captured by an onboard Nikon DSLR camera that was remotely operated using an Odroid C1 and the gphoto2 bash terminal tool.
