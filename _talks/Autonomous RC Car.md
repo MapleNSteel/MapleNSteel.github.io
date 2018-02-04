@@ -5,7 +5,7 @@ type: "Volunteer Project"
 permalink: /talks/Autonomous RC Car
 venue: "Worcester Polytechnic Institute"
 date: 2017-12-07
-location: "Worcester, MA"
+location: "Worcester MA, USA"
 ---
 
 [Repository](https://github.com/MapleNSteel/Autonomous-RC-Car)
