@@ -31,7 +31,7 @@ Completed: 15th January 2018
 Autopilot
 ======
 
-For the autopilot, given the computational-constraints on the microcontroller, I may consider running State-Estimation Modules on board the Jetson TX2, based on how well the Teensy 3.2 can deal with the task. Currently working with a team of three to decide on the right approach to achieve proper state-estimation. For now, the Dubin's Car model seems to be enough.
+For the autopilot, given the computational constraints on the microcontroller, I may consider running State-Estimation Modules on board the Jetson TX2, based on how well the Teensy 3.2 can deal with the task. Currently working with a team of three to decide on the right approach to achieve proper state-estimation. For now, the Dubin's Car model seems to be enough.
 
 Serial communication modules also have to be designed to send commands to the controller and to receive odometry data from the microcontroller.
 
