@@ -1,7 +1,7 @@
 ---
 title: "Student Unmanned Air Systems Competition"
 collection: talks
-type: "Talk"
+type: "Competition"
 permalink: /talks/SUAS
 venue: "Webster Field"
 date: 2015-06-15
