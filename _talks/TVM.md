@@ -10,4 +10,16 @@ location: "Worcester MA, USA"
 
 [More information here](http://exampleurl.com)
 
-This is a description of your tutorial, note the different field in type. This is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+Introduction
+======
+The main aim of the project was to develop interoperability modules that is capable of mapping human motion isomorphically to Baxter Robot's arms. We had the Baxter Robot platform with a mobile base, and the Vicon Motion Capture System for human motion data acquisition.
+
+
+Obtaining Joint Angles and the Isomorphic Map
+======
+Data was obtained using the Vicon motion capture system, and was transmitted and received over a local network using the vicon bridge ROS package. The joint angles of the human subject were determined using generalised inverse kinematic models of the Human Arm. The data was noisy and thus was low-pass filtered using a digital FIR filter, at a frequency of about 10Hz. The reasoning behind this was based on the assumption that no human joint-angle could oscillate at frequencies higher than 10Hz.
+
+Also, due to the difference in configuration of Baxter's Arms, the joint angles inputs to Baxter's Arms had to be mapped to Baxter's Joint Space so that the mapping was visually-intelligible to the human subject.
+
+An early result can show how difficult and agonising the control process was for the human subject and all related subjects interacting with the robot (Sincerest apologies for the video orientation):
+<iframe width="420" height="315" src="/files/out.mp4" frameborder="0" allowfullscreen></iframe>
