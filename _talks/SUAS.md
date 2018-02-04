@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/SUAS
 venue: "Webster Field"
-date: 2012-03-01
+date: 2015-06-15
 location: "St Inigoes, Maryland, USA"
 ---
 
