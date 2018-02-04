@@ -1,5 +1,5 @@
 ---
-title: "Talk 2 on Relevant Topic in Your Field"
+title: "Autonomous RC Car"
 collection: talks
 type: "Volunteer Project"
 permalink: /talks/Autonomous RC Car
