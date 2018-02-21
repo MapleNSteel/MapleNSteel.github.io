@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My Resume can be found by clicking [**here**](/files/Resume.pdf)
+[**Resume**](/files/Resume.pdf)
 
 Education
 ======
