@@ -35,12 +35,13 @@ Skills
 
 Achievements
 ======
-* Adjudged Best Director in Skit Category at the annual collegiate theater festival held
-at Ramaiah Institute of Technology in 2013
-* Successfully completed the project on DTMF controlled Mobile Robot under the
-supervison of IEEE - Ramaiah Institute of Technology Student branch in 2014
+* Represented the delegation of Serbia at Harvard National Model United Nations 2018
 * Successfully compeleted the project titled "Heat Seeking Robot" in Hackatronics conducted
 in the Inter-Collegiate half-a-day Tech Fest of IEEE Ramaiah Institute of Technology in 2015
+* Successfully completed the project on DTMF controlled Mobile Robot under the
+supervison of IEEE - Ramaiah Institute of Technology Student branch in 2014
+* Adjudged Best Director in Skit Category at the annual collegiate theater festival held
+at Ramaiah Institute of Technology in 2013
 
 Publications
 ======
